@@ -1,0 +1,21 @@
+//
+//  Root.pch
+//  夺你所爱
+//
+//  Created by Zhanggaoju on 16/9/20.
+//  Copyright © 2016年 Zhanggaoju. All rights reserved.
+//
+
+#ifndef Root_pch
+#define Root_pch
+
+#import "HeaderFile.h"
+#import "LoginFile.h"
+
+
+#define WSSCREENWIDTH  [UIScreen mainScreen].bounds.size.width
+
+#define WSSCREENHEIGHT  [UIScreen mainScreen].bounds.size.height
+
+
+#endif /* Root_pch */
